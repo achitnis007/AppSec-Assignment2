@@ -33,7 +33,7 @@ Jinja2==2.10.3
 jinja2-time==0.2.0
 lxml==4.4.1
 MarkupSafe==1.1.1
-mechanize==0.4.3
+mechanize==0.4.6
 packaging==19.2
 pager==3.3
 parse==1.12.1
